@@ -1,2 +1,2 @@
-#create first repo in gitHub
-add three file
+# create first repo in gitHub
+*add three file*
